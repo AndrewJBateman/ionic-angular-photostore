@@ -16,7 +16,10 @@ import { AppComponent } from './app.component';
 @NgModule({
   declarations: [AppComponent],
   entryComponents: [],
-  imports: [BrowserModule, IonicModule.forRoot(), AppRoutingModule,
+  imports: [
+    BrowserModule,
+    IonicModule.forRoot(),
+    AppRoutingModule,
     IonicStorageModule.forRoot()
   ],
   providers: [
