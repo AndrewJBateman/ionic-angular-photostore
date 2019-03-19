@@ -1,6 +1,8 @@
 {
   "name": "ionic-angular-photostore",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "3c265fd7"
 }
