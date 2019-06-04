@@ -9,6 +9,8 @@ import { PhotoService } from '../services/photo.service';
 })
 export class Tab2Page {
 
+  currentImage: any;
+
   constructor(public photoService: PhotoService) {}
 
 // tslint:disable-next-line: use-life-cycle-interface

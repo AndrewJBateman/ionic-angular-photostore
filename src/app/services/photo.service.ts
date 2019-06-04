@@ -29,7 +29,7 @@ export class PhotoService {
       this.storage.set('photos', this.photos);
     }, (err) => {
      // Handle error
-     console.log('The is a camera error: ' + err);
+     console.log('There is a camera error: ' + err);
     });
 
   }
