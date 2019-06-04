@@ -77,7 +77,7 @@ App to take, store and display photos using the [Ionic 5 framework](https://ioni
 
 ## Status & To-do list
 
-* Status: Working app. Tab 2 has access to a phone camera and it stores & displays the photos taken. There are still tabs 1 and 3 to develop.
+* Status: compiles but Ionic Web Build fails. Tab 2 has access to a phone camera and it stores & displays the photos taken. There are still tabs 1 and 3 to develop.
 
 * To-do: Add a lot more detail/styling to front page.
 
