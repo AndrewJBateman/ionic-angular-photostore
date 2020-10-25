@@ -21,11 +21,11 @@
 
 ## :signal_strength: Technologies
 
-* [Ionic/angular v5.7.0](https://www.npmjs.com/package/@ionic/angular)
-* [Ionic v5.7.0](https://ionicframework.com/)
-* [Angular v8.0.0](https://angular.io/)
-* Ionic DevApp, to allow app to run on an iOS or Android device.
-* [Cordova-sqlite-storage v3.2.0](https://www.npmjs.com/package/cordova-plugin-sqlite), an Ionic Cordova Storage Plugin.
+* [Ionic/angular v5](https://www.npmjs.com/package/@ionic/angular)
+* [Ionic v5](https://ionicframework.com/)
+* [Angular v8](https://angular.io/)
+* Ionic DevApp, **this has been retired - replaced by [Capacitor](https://capacitorjs.com/)** to allow app to run on an iOS or Android device.
+* [Cordova-sqlite-storage v3](https://www.npmjs.com/package/cordova-plugin-sqlite), an Ionic Cordova Storage Plugin.
 
 ## :floppy_disk: Setup
 
